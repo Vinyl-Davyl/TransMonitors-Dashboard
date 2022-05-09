@@ -230,7 +230,7 @@ const data = [
   {
       id: 1,
       name: 'Apple Mac Book 15” 250 SSD 12GB',
-      price: '2000',
+      price: '$73430',
       transaction: '1234567890',
       time:'12:30',
       status:'Pending'
@@ -238,7 +238,7 @@ const data = [
   {
     id: 2,
     name: 'Apple Mac Book 15” 250 SSD 12GB',
-    price: '2000',
+    price: '$73430',
     transaction: '1234567890',
     time:'12:30',
     status:'Pending'
@@ -246,7 +246,7 @@ const data = [
 {
   id: 3,
   name: 'Apple Mac Book 15” 250 SSD 12GB',
-  price: '2000',
+  price: '$73430',
   transaction: '1234567890',
   time:'12:30',
   status:'Pending'
@@ -254,7 +254,7 @@ const data = [
 {
   id: 4,
   name: 'Apple Mac Book 15” 250 SSD 12GB',
-  price: '2000',
+  price: '$73430',
   transaction: '1234567890',
   time:'12:30',
   status:'Pending'
@@ -262,7 +262,7 @@ const data = [
 {
   id: 5,
   name: 'Apple Mac Book 15” 250 SSD 12GB',
-  price: '2000',
+  price: '$73430',
   transaction: '1234567890',
   time:'12:30',
   status:'Pending'
@@ -270,7 +270,7 @@ const data = [
 {
   id: 6,
   name: 'Apple Mac Book 15” 250 SSD 12GB',
-  price: '2000',
+  price: '$73430',
   transaction: '1234567890',
   time:'12:30',
   status:'Pending'
@@ -278,7 +278,7 @@ const data = [
 {
   id: 7,
   name: 'Apple Mac Book 15” 250 SSD 12GB',
-  price: '2000',
+  price: '$73430',
   transaction: '1234567890',
   time:'12:30',
   status:'Pending'
@@ -286,7 +286,7 @@ const data = [
 {
   id: 8,
   name: 'Apple Mac Book 15” 250 SSD 12GB',
-  price: '2000',
+  price: '$73430',
   transaction: '1234567890',
   time:'12:30',
   status:'Pending'
