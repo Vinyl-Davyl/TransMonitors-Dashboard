@@ -261,7 +261,7 @@ const data = [
 },
 {
   id: 5,
-  name: 'Apple Mac Book 15” 250 SSD 12GB',
+  name: 'Apple Mac Book 14” 250 SSD 12GB',
   price: '2000',
   transaction: '1234567890',
   time:'12:30',
