@@ -176,10 +176,10 @@ function App() {
           </form>
           <form method='POST'>
           <select class="form-select" aria-label="Default select example">
-            <option selected>Open this select menu</option>
-            <option value="1">One</option>
-            <option value="2">Two</option>
-            <option value="3">Three</option>
+            <option selected>Show All</option>
+            <option value="1">Reconcilled</option>
+            <option value="2">Un-reconcilled</option>
+            <option value="3">Settled</option>
           </select>
           </form>
 
