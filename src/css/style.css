@@ -1,0 +1,57 @@
+@font-face {font-family: Open Sans Regular;src: url(../fonts/OpenSans-Regular.ttf);display:swap;}
+@font-face {font-family: Open Sans SemiBold;src: url(../fonts/OpenSans-SemiBold.ttf);display:swap;}
+@font-face { font-family: Open Sans Bold;src: url(../fonts/OpenSans-Bold.ttf);display:swap;}
+
+/* Sass Decoration to assign color values*/
+:root {
+    --black--: #343a40;
+    --purple--: #571F9C;
+    --ash--: #f2f2f2;
+    --white--: #FFFFFF;
+    --blue--: #007bff;
+    --deepblue--: #0056b3;
+}
+/* Margin and Padding removal*/
+body {
+    margin: 0;
+    padding: 0;
+    background-color: white;
+   
+}
+* {
+    box-sizing: border-box;
+    border: none;
+    outline: none;
+}
+a {
+    text-decoration: none;
+    color: inherit;
+}
+a:hover{
+    text-decoration: none;
+    color: white !important;
+}
+ul {
+    padding: 0;
+    margin: 0;
+}
+li {
+    list-style: none;
+}
+h2,h3,h4,h5,h6{
+    text-align: center;
+}
+body{
+    height: 100vh;
+    overflow: hidden;
+    -webkit-overflow:hidden;
+    -moz-height: 100vh;
+    -webkit-height: 100vh;
+    -ms-height: 100vh;
+    box-shadow: 0 4px 17px 0 rgba(0,0,0,0.1);
+    padding: 0px !important;
+    -webkit-padding: 0px !important;
+    background-image: url('../images/photo-1481627834876-b7833e8f5570_1_1440x1024\ 1.png');
+    background-position: center;
+    background-size: contain;
+}
